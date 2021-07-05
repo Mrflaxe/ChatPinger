@@ -1,0 +1,7 @@
+main: ru.mrflaxe.chatpinger.ChatPinger
+name: ${project.name}
+author: Mrflaxe
+api-version: 1.16 
+version: ${project.version}
+
+depend: [SKLibrary, ProtocolLib]
